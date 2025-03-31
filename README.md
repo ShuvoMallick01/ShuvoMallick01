@@ -61,9 +61,9 @@ Here are some ideas to get you started:
   </a>
 
   <!-- Nuxt.js -->
-  <a href="https://nuxt.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/374118/nuxt.svg" alt="Nuxt.js" width="40" height="40" />
-  </a>
+<a href="https://nuxt.com/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Nuxt_logo.svg" alt="Nuxt.js" width="40" height="40" />
+</a>
 
   <!-- TailwindCSS -->
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
